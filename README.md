@@ -1,23 +1,28 @@
-# Button box
+# Cougar USB
 
 Features:
 - Can be used to convert a TM Cougar Throttle into a USB device, or as a stand-alone button box.
 - Several boards can be daisy-chained via the 1x5 pin socket J11.
 - The dimensions of the PCB are 112mm * 37mm.
 
-Errata:
+v1.0 errata:
 - Pro micro pin 9, PM_C7, should be PM_D7
+
+This repository has been forked from <https://github.com/aapalo/buttonbox>
 
 ----
 
 The required components include:
 - Arduino board, Pro Micro 5V/16MHz ATmega32U4
-- Shift register, 74HC165N, DIP-16
 - SMD resistors, 10k Ohm, 0805
 - SMD capacitors, 470nF, 0805
-- Pin sockets and/or headers, 2.54mm pitch
+- 2x8 pin header, 2.54mm pitch
+
+Add also these components if additional buttons or switches are wanted:
+- Shift register, 74HC165N, DIP-16
 - Buttons/switches
 - Jumper wires for the buttons/switches
+- Pin sockets and/or headers, 2.54mm pitch
 
 ----
 
