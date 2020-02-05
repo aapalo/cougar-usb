@@ -38,7 +38,7 @@ When used as a stand-alone button box, the board should fit inside a Hammond [15
 ----
 
 A finished board install into a Cougar:
-![](./pics/usb-cougar-usb.png)
+![](./pics/usb-cougar-pcb.png)
 
 The schematic, with some of the planned DCS key bindings visible:
 ![](./pics/schema.png)
