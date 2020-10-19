@@ -29,15 +29,11 @@ Add also these components if additional buttons or switches are wanted:
 The recommended software to program the Pro Micro is MMJoy2:
 <https://simhq.com/forum/ubbthreads.php/topics/3899105/mmjoy-mmjoy2-build-your-own-usb-controller>
 
-When used as a stand-alone button box, the board should fit inside a Hammond [1591C*](1) or a [1591XXC](2) enclosure.
-
-[1]: <http://www.hammondmfg.com/dwg2.htm>
-[2]: <https://www.hammfg.com/part/1591XXCBK>
-[3]: <http://www.hammondmfg.com/dwg2XX.htm>
+When used as a stand-alone button box, the board should fit inside a Hammond [1591C*](<http://www.hammondmfg.com/dwg2.htm>) or a [1591XXC](<https://www.hammfg.com/part/1591XXCBK>) enclosure.
 
 ----
 
-A finished board install into a Cougar:
+A finished board installed into a Cougar throttle:
 ![](./pics/usb-cougar-pcb.png)
 
 The schematic, with some of the planned DCS key bindings visible:
